@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "hahah"
+baseURL = "https:\/\/ahahaha.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "ahahaha.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
